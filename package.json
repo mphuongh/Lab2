@@ -1,0 +1,1 @@
+{"name":"jsx-without-react","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite","build":"vite build","preview":"vite preview","type-check":"tsc --noEmit"},"devDependencies":{"typescript":"^5.6.3","vite":"^5.4.21"}}
